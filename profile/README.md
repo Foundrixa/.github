@@ -6,7 +6,7 @@ Welcome to the Foundrixa GitHub Organization!
 
 ## Innovative Tech Solutions for the Next Generation of Entrepreneurs
 
-We're thrilled to have you here. At Foundrixa, we're all about collaboration and innovation in the world of technology Also focused on founding or establishing something innovative, dynamic, or unique, possibly within the tech or startup space. Whether it's crafting elegant web solutions, building cross-platform mobile apps with Flutter, streamlining development workflows, or optimizing processes through DevOps practices, we're passionate about pushing the boundaries and delivering exceptional results.
+We're thrilled to have you here. At Evoxa Labs, we're all about collaboration and innovation in the world of technology Also focused on founding or establishing something innovative, dynamic, or unique, possibly within the tech or startup space. Whether it's crafting elegant web solutions, building cross-platform mobile apps with Flutter, streamlining development workflows, or optimizing processes through DevOps practices, we're passionate about pushing the boundaries and delivering exceptional results.
 
 ### What We Do
 
